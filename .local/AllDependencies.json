@@ -22868,9 +22868,9 @@
     "restore": {
       "projectUniqueName": "EmailProcessorBotFlow",
       "projectName": "EmailProcessorBotFlow",
-      "projectPath": "C:\\Users\\aliae\\OneDrive\\Documents\\UiPath\\EmailProcessorBotFlow\\.local",
+      "projectPath": "C:\\Users\\aliae\\OneDrive\\Desktop\\Maids-RPA-Final-Test-Project\\.local",
       "packagesPath": "C:\\Users\\aliae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aliae\\OneDrive\\Documents\\UiPath\\EmailProcessorBotFlow\\.local"
+      "outputPath": "C:\\Users\\aliae\\OneDrive\\Desktop\\Maids-RPA-Final-Test-Project\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {

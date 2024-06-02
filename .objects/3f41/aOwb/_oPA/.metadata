@@ -1,0 +1,12 @@
+﻿{
+  "Name": "HomeScreen",
+  "Type": "Screen",
+  "Id": "_oPA-AjE1EK5llasbAd1jg",
+  "Reference": "Dkt81Bl_8kyTAN0pK5I-ew/_oPA-AjE1EK5llasbAd1jg",
+  "ParentRef": "Dkt81Bl_8kyTAN0pK5I-ew/aOwb27gg10-qtULLdRor_w",
+  "Created": "2024-05-31T12:56:08.4633233Z",
+  "Updated": "2024-05-31T12:56:08.4633233Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

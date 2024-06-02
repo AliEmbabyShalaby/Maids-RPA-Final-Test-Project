@@ -1,0 +1,83 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CurrentTime&Sequence_1",
+        "TimeOutMin&Sequence_1",
+        "EmailRecieved&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Gender&Sequence_59",
+        "Country&Sequence_59",
+        "Password&Sequence_59",
+        "Occupation&Sequence_59",
+        "Company&Sequence_59",
+        "CountryCode&Sequence_59",
+        "Phone&Sequence_59",
+        "Address&Sequence_59",
+        "Birthday&Sequence_59",
+        "UserFullName&Sequence_59",
+        "OutputDataCounter&Flowchart_1",
+        "OutputGeneratedData&Flowchart_1",
+        "OutputGeneratedData&Sequence_62",
+        "FirstEmptyRow&Sequence_62",
+        "FakeNameGenerator&Flowchart_1",
+        "ExtractedDataExcelFile&Flowchart_1",
+        "ConfigPath&Flowchart_1",
+        "ConfigDataColl&Flowchart_1",
+        "ScreenshotFolderPath&Flowchart_1",
+        "ReceiverEmail&Flowchart_1",
+        "EmailUsername&Flowchart_1",
+        "EmailPassword&Flowchart_1",
+        "HideMeUsername&Flowchart_1",
+        "HidemePassword&Flowchart_1",
+        "OutputFolderPath&Flowchart_1",
+        "EmailSearchSubject&Flowchart_1",
+        "MailFolder&Flowchart_1",
+        "Port&Flowchart_1",
+        "Server&Flowchart_1",
+        "HideMeWebsite&Flowchart_1",
+        "HidemeEmails&Flowchart_1",
+        "EmailBody&Flowchart_1",
+        "ActivationLink&Flowchart_1",
+        "EmailRecieved&Flowchart_1",
+        "CurrentTime&Flowchart_1",
+        "TimeOutMin&Flowchart_1",
+        "AttachmentsFile&Flowchart_1",
+        "variable1&Sequence_9",
+        "ConfigData&Sequence_9",
+        "EmailOutput&Sequence_26",
+        "CurrentIndexEmail&Sequence_48",
+        "SubmissionMSG&Sequence_10"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MainFlowBot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

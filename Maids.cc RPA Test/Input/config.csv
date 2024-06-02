@@ -1,0 +1,21 @@
+Key,Value,Note
+emailName,aliembabymaidsrpa@outlook.com,"email name that the robot will use (Feel free to use this mail credentials its new account for the test as process works with outlook and all outlook settings, gmail should work but need to change all credentials )"
+emailPassword,1a2a3a4a@,email password
+EmailSearchSubject,maids.cc RPA test,Subject To Search mail
+MailFolder,Inbox,Name of email folder
+Port,993,Read email port(outlook)
+Server,outlook.office365.com,Read email Server(outlook)
+SMTPPORT,587,SMTP Read email port(outlook)
+SMTPSERVER,smtp.office365.com,SMTP Read email Server(outlook)
+outputFolder,Maids.cc RPA Test\Output,the output folder thatt contains the process result files
+screenshotsFolder,Maids.cc RPA Test\Output\ScreenShots,this folder contains the error screenshots
+receiverEmails,ali.a.shalaby@hotmail.com,receiver's emails that you should send the output files to them
+FakeNameGenerator,https://www.fakenamegenerator.com/,
+ExerciseWebsite,https://automationexercise.com/,
+APIURL,https://reqres.in/api/users,
+ResultFilePath,Maids.cc RPA Test\Output\result.xlsx,
+SummaryFilePath,Maids.cc RPA Test\Output\summary.xlsx,
+HideMeEXEPath,Maids.cc RPA Test\hide.me VPN\Hide.me.exe,
+HideMeWebsite,https://hide.me/en/,
+hidemeUsername,RPATESTEMBO,username of hide.me account to signup or login
+hidemePassword,Rpa@test@27382731,password of hide.me account
